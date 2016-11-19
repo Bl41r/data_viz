@@ -1,2 +1,2 @@
 # data_viz
-Some Jupyter notebooks and data sets to explore and present visually
+Just some practicing with data analysis/visualization using matplotlib, numpy, pandas
